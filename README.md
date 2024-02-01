@@ -9,8 +9,15 @@ Breast Cancer is a leading form of cancer in woman often going undetected to adv
 *  Tensorflow is used for Artificial Neural Networks
 *  Matplotlib & Seaborn is used to visualise models and their Confusion Matrix for all algorithms used.
 ## Tech Stack
-![ ](https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png)
-[![My Skills](https://skillicons.dev/icons?i=py,anaconda)](https://skillicons.dev)
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter logo"  />
+  <img width="12" />
+
+
 
 ### Setup & Installation
 * Clone the repo in local Github.
@@ -47,6 +54,6 @@ Breast Cancer is a leading form of cancer in woman often going undetected to adv
 * K-nearest neighbour: 95.9%
 * Decision Tree & Random Forest: 95% and above
 ## License
-This project is licensed under [Apache 2.0 License](docs/license.md)
+This project is licensed under [License](docs/license.md)
 
 If you find my repository helpful, please star⭐ it 🌟.
