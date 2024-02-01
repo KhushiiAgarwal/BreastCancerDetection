@@ -54,6 +54,6 @@ Breast Cancer is a leading form of cancer in woman often going undetected to adv
 * K-nearest neighbour: 95.9%
 * Decision Tree & Random Forest: 95% and above
 ## License
-This project is licensed under [License](docs/license.md)
+This project is licensed under [License](docs/LICENSE.md)
 
 If you find my repository helpful, please star⭐ it 🌟.
