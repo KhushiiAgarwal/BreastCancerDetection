@@ -52,8 +52,11 @@ Breast Cancer is a leading form of cancer in woman often going undetected to adv
 * Linear Regression: 78.2%
 * Logistic Regression: 98.8%
 * K-nearest neighbour: 95.9%
-* Decision Tree & Random Forest: 95% and above
+* Decision Tree: 95.34% 
+* Random Forest: 95.1%
+* Artificial Neural Networks (ANN) : 96.49%
+  
 ## License
 This project is licensed under [License](docs/LICENSE.md)
 
-If you find my repository helpful, please star⭐ it 🌟.
+###### If you find my repository helpful, please star⭐ it 🌟.
